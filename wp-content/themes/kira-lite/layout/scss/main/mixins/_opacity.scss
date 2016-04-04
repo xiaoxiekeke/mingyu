@@ -1,0 +1,6 @@
+@mixin opacity($value1, $value2) {
+	-webkit-opacity: $value1;
+	-moz-opacity: $value1;
+	opacity: $value1;
+	filter:alpha(opacity=$value2);
+}

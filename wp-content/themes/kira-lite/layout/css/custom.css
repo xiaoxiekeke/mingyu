@@ -1,0 +1,29 @@
+#header .center-header .header-navigation ul {
+	padding: 30px 0;
+}
+
+#header .center-header .header-navigation ul li {
+	margin-top: 10px;
+}
+
+#header .center-header .header-navigation ul li.menu-item-has-children .sub-menu li {
+	margin-top: 0;
+}
+
+.section-head {
+	overflow: hidden;
+}
+
+form.search-form input[type=submit] {
+	width: 18px;
+}
+
+.search-modal .modal-box {
+	height: 288px;
+	margin: auto;
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+}

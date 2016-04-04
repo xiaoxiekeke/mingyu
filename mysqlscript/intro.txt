@@ -1,0 +1,4 @@
+databases:mingyu123
+password:mingyu321
+username:mingyu123
+charset:utf-8
