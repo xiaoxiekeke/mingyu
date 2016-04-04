@@ -2,3 +2,13 @@ databases:mingyu123
 password:mingyu321
 username:mingyu123
 charset:utf-8
+
+
+address:myhostadmin.net
+ftpaddress:mingyu123.gotoftp1.com
+ftpusername:mingyu123
+ftppassword:mingyu321
+
+
+http://address
+http://mingyu123.gotoip1.com
